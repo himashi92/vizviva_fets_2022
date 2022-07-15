@@ -26,5 +26,21 @@ python train.py
 python test.py 
 ```
 
+## Acknowledgements
+This repository makes liberal use of code from [open_brats2020](https://github.com/lescientifik/open_brats2020).
+
+## Citing our work
+```bash
+   @misc{peiris2022reciprocal,
+      title={Reciprocal Adversarial Learning for Brain Tumor Segmentation: A Solution to BraTS Challenge 2021 Segmentation Task}, 
+      author={Himashi Peiris and Zhaolin Chen and Gary Egan and Mehrtash Harandi},
+      year={2022},
+      eprint={2201.03777},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+   }
+    
+```
+
 
 
