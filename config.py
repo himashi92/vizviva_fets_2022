@@ -4,8 +4,8 @@
 
 user = "YOU"
 
-BRATS_TRAIN_FOLDERS = f"../BRATS/data/BRATS2021/Data/RSNA_ASNR_MICCAI_BraTS2021_TrainingData"
-BRATS_TEST_FOLDERS = f"./MICCAI_FeTS2022_ValidationData"
+BRATS_TRAIN_FOLDERS = f"./data/MICCAI_FeTS2022_TrainingData"
+BRATS_TEST_FOLDERS = f"./data/MICCAI_FeTS2022_ValidationData"
 
 
 def get_brats_folder(on="train"):
