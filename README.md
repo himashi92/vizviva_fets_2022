@@ -1,6 +1,8 @@
 # vizviva_fets_2022
 Official PyTorch Code for Bipartite Window Attention Based Transformer Architecture for Brain Tumor Segmentation: Solution for FeTS 2022 Task 2.
 
+## Data Preparation
+Download data from FeTS 2022 challenege page and put it under data folder.
 
 ## Environment
 Please prepare an environment with python=3.8, and then run the command "pip install -r requirements.txt" for the dependencies.
