@@ -1,6 +1,8 @@
 # vizviva_fets_2022
 Official PyTorch Code for [Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation](https://arxiv.org/pdf/2209.07704.pdf): Solution for FeTS 2022 Task 2.
 
+![Proposed Architecture](img/cr_swin2.png?raw=true)
+
 ## Data Preparation
 Download data from [FeTS 2022 challenge page](https://www.synapse.org/#!Synapse:syn28546456/wiki/617246) and put it under data folder.
 
