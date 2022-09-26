@@ -31,23 +31,12 @@ This repository makes liberal use of code from [open_brats2020](https://github.c
 
 ## Citing our work
 ```bash
-   @misc{https://doi.org/10.48550/arxiv.2209.07704,
-  doi = {10.48550/ARXIV.2209.07704},
-  
-  url = {https://arxiv.org/abs/2209.07704},
-  
-  author = {Peiris, Himashi and Hayat, Munawar and Chen, Zhaolin and Egan, Gary and Harandi, Mehrtash},
-  
-  keywords = {Image and Video Processing (eess.IV), Computer Vision and Pattern Recognition (cs.CV), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}    
+@article{peiris2022hybrid,
+  title={Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation},
+  author={Peiris, Himashi and Hayat, Munawar and Chen, Zhaolin and Egan, Gary and Harandi, Mehrtash},
+  journal={arXiv preprint arXiv:2209.07704},
+  year={2022}
+}
 ```
 
 
